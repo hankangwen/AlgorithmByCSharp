@@ -1,2 +1,0 @@
-# AlgorithmByCSharp
-AlgorithmByCSharp
