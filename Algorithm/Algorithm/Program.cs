@@ -7,7 +7,8 @@ namespace Algorithm
         public static void Main(string[] args)
         {
             Console.WriteLine("Program Start:");
-            BubbleSort.Sort();
+            new BubbleSort();
+            
             
         }
     }
